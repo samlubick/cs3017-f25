@@ -33,3 +33,8 @@ And to do both we can do three stars ***haha***
     1. This is the first item in sub list
 
 ---
+## Links to other places 
+
+[Google Search](https://google.com)
+
+[Class 3](class3)
